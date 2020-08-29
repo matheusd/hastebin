@@ -1,4 +1,4 @@
-/**
+/*
 hastebin is a CLI tool to upload text files to the hastebin.com pastebin service.
 
 Installation
